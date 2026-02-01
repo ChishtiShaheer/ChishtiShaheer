@@ -1,4 +1,4 @@
 <p align="center"><img src="assets/Angry%20Monday%20GIF%20by%20Pudgy%20Penguins.gif" alt="penguin" /></p>
 
-## CS Sophomore @ FAST NUCES with keen interest in Game dev, App dev and AI engineering
+## CS Junior @ FAST NUCES with keen interest in Game dev, App dev and AI engineering
 
