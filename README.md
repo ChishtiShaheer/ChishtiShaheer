@@ -1,4 +1,4 @@
-## Hi there 👋
+## CS Sophomore @ FAST NUCES with keen interest in Game dev, App dev and AI engineering
 
 <!--
 **ChishtiShaheer/ChishtiShaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
