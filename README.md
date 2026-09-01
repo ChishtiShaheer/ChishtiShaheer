@@ -3,7 +3,7 @@
 <p align="center"><b>AI Engineer · Mobile Developer</b></p>
 
 <p align="center">
-I build intelligent mobile applications — from on-device ML features to LLM-powered backends.<br/>
+I build intelligent mobile and web applications — from on-device ML features to LLM-powered backends.<br/>
 Focused on Flutter/React Native, Python, and applied AI.
 </p>
 
